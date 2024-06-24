@@ -29,7 +29,7 @@
 | fractal\_tasks\_core/tasks/\_utils.py                                     |       28 |        5 |        8 |        1 |     78% |33-35, 68-71 |
 | fractal\_tasks\_core/tasks/\_zarr\_utils.py                               |       69 |        0 |       20 |        1 |     99% | 195->exit |
 | fractal\_tasks\_core/tasks/apply\_registration\_to\_image.py              |      126 |       17 |       42 |        8 |     82% |51->50, 104, 150-151, 153->175, 181->180, 185-197, 199->236, 216-222, 349-362, 387-389 |
-| fractal\_tasks\_core/tasks/calculate\_registration\_image\_based.py       |       73 |        6 |       14 |        6 |     86% |57->56, 155, 165, 183, 229, 274-276 |
+| fractal\_tasks\_core/tasks/calculate\_registration\_image\_based.py       |       73 |        6 |       14 |        6 |     86% |57->56, 157, 167, 185, 231, 276-278 |
 | fractal\_tasks\_core/tasks/cellpose\_segmentation.py                      |      196 |       20 |       64 |       11 |     87% |115-166, 170->169, 250-251, 282, 289-290, 328, 336->341, 345, 417, 441->445, 519->535, 529, 618-620 |
 | fractal\_tasks\_core/tasks/cellpose\_utils.py                             |      137 |       12 |       52 |       10 |     88% |74->73, 134->133, 260->259, 267, 285-291, 406-408, 422-424, 431-435 |
 | fractal\_tasks\_core/tasks/cellvoyager\_to\_ome\_zarr\_compute.py         |       78 |        4 |       20 |        4 |     92% |57->56, 111, 158, 222-224 |
